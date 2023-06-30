@@ -18,7 +18,7 @@
 <code><img width="40px" src="https://i.imgur.com/LMX3yhx.png" title = "Visual Studio Code"/></code>
 
 
-<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<code src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></code>
   
   
 </div>
