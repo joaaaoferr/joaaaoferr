@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovoferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovoferreira&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <a href = "https://twitter.com/DocimPreto" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
 <div style="display: inline_block"><br>
   
 
@@ -16,7 +16,7 @@
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
 <code><img width="40px" src="https://i.imgur.com/LMX3yhx.png" title = "Visual Studio Code"/></code>
-src="https://cdn.discordapp.com/attachments/1100514014972358777/1124371948600840342/FOTO_DE_PERFIL.png">
+src="https://cdn.discordapp.com/attachments/1029880426275283085/1037079501567426580/download20221102160156.png">
   
   
 </div>
@@ -27,7 +27,8 @@ src="https://cdn.discordapp.com/attachments/1100514014972358777/1124371948600840
   
   <a href="https://www.instagram.com/jaopubgm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jvoferreira0w2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-vitor-oliveira-44b2a0239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joao-vitor-oliveira-44b2a0239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/JotaV" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
   
   
