@@ -16,6 +16,36 @@
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
 <code><img width="40px" src="https://i.imgur.com/LMX3yhx.png" title = "Visual Studio Code"/></code>
+
+bi:badge-3d
+Customize "badge-3d" icon:
+
+Color
+#000
+Size
+16
+16
+Flip
+
+Horizontal
+
+Vertical
+Rotate
+
+0°
+
+90°
+
+180°
+
+270°
+Code for "badge-3d" for developers:
+
+SVGHTMLReactVueSvelteEmber
+Web ComponentSVG FrameworkCSS
+IconifyIcon web component makes using icons as easy as icon fonts. To use "badge-3d" in HTML, add this code to the document:
+
+<iconify-icon icon="bi:badge-3d"></iconify-icon>
   
   
 </div>
@@ -29,7 +59,7 @@
   <a href="https://www.linkedin.com/in/joao-vitor-oliveira-44b2a0239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/jaopubgm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jvoferreira0w2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-vitor-oliveira-44b2a0239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitter.com/in/JotaV/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
   
