@@ -22,7 +22,7 @@
   
 
  
-
+<div>
 
       <h2>Contact: <img src="https://em-content.zobj.net/source/microsoft-teams/337/telephone-receiver_1f4de.png" width="35px"></h2>
   <a href="https://www.instagram.com/jaopubgm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -34,3 +34,4 @@
   ![Snake animation](https://github.com/JoaoOlivera/JoaoOlivera/blob/output/github-contribution-grid-snake.svg)
  
 
+</div>
