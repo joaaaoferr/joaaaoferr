@@ -18,7 +18,7 @@
 <code><img width="40px" src="https://i.imgur.com/LMX3yhx.png" title = "Visual Studio Code"/></code>
 
 
-<iconify-icon icon="bi:badge-3d"></iconify-icon>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
   
   
 </div>
