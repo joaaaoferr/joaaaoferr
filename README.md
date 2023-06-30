@@ -1,4 +1,4 @@
-<h1 align= left>Hi guys <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, I'm João!</h1>
+<h1 align= left>Hi guys <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, I'm João!</h1><br>
 <div align="center">
   <h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="50px"> </h2>
   <a href="https://github.com/JoaoOlivera/JoaoOlivera">
