@@ -1,10 +1,19 @@
-<h1 align= center>Hi guys <img src="https://github.com/joaaaoferr/joaaaoferr/assets/138161914/915d7d3d-56c2-4c1c-9b1f-fb25d7eee35c" width="50px">, I'm João! <img src="https://github.com/joaaaoferr/joaaaoferr/assets/138161914/78b99901-965b-43df-99b6-611f0e056995" width="50px"/></h1><br>
-<div align="center">
-  <h2 align = "left">Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="50px"> </h2>
+
+
+<h1 align="center"> <img src="https://github.com/joaaaoferr/joaaaoferr/assets/138161914/414388c3-d0da-479e-914d-a40945b1234a" width="50px"/>Olá, meu nome é João! <img src="https://github.com/joaaaoferr/joaaaoferr/assets/138161914/414388c3-d0da-479e-914d-a40945b1234a" width="50px"/></h1>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaaaoferr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<br/>
+<br/>
+<img src="https://img.shields.io/static/v1?label=Overview&message=joaaaoferr&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"> <h2>ABOUT MY GITHUB STATUS<img src="https://github.com/joaaaoferr/joaaaoferr/assets/138161914/a94f6c98-757b-49d4-8d91-bee211ffcfba" width="50px"/>
+<br/><br/>
+</h2>
+
+<h2 align = "left">Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="50px"> </h2>
   <a href="https://github.com/joaaaoferr/joaaaoferr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaaaoferr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOlivera&layout=compact&langs_count=7&theme=dark" />
-</div>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOlivera&layout=compact&langs_count=7&theme=radical" />
+<br/>
+
+
 <div style="display: inline_block"><br><br>
  
 
@@ -20,15 +29,6 @@
 
 
 
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoaoOlivera&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
-### Olá, meu nome é {seu nome}!
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
-  
 </div>
   
   ##
@@ -39,10 +39,17 @@
   <a href = "mailto:jvoferreira0w2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-vitor-oliveira-ferreira-44b2a0239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
   
-  
-  
- 
-  ![Snake animation](https://github.com/joaaaoferr/joaaaoferr/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/JoaoOlivera/count.svg"
+    alt="Profile view counter"
+  />
+</p>
  
 </div>
