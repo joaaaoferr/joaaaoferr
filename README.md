@@ -1,9 +1,9 @@
 <h1 align= center>Hi guys <img src="https://github.com/joaaaoferr/joaaaoferr/assets/138161914/915d7d3d-56c2-4c1c-9b1f-fb25d7eee35c" width="50px">, I'm João! <img src="https://github.com/joaaaoferr/joaaaoferr/assets/138161914/78b99901-965b-43df-99b6-611f0e056995" width="50px"/></h1><br>
 <div align="center">
   <h2 align = "left">Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="50px"> </h2>
-  <a href="https://github.com/JoaoOlivera/JoaoOlivera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoOlivera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOlivera&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/joaaaoferr/joaaaoferr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaaaoferr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOlivera&layout=compact&langs_count=7&theme=dark" />
 </div>
 <div style="display: inline_block"><br><br>
  
@@ -37,6 +37,6 @@
   
   
  
-  ![Snake animation](https://github.com/JoaoOlivera/JoaoOlivera/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaaaoferr/joaaaoferr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
